@@ -1,0 +1,13 @@
+To read this file follow the syntax:
+code_file_name- Question of the code.
+
+swap.java- Write a Java program to Swap two numbers without using third variable?
+month.java- Write a program that calculates the number of days in a particular month ?
+whilep.java- Using the do-while statement to print the values from 1 through 10 ?
+larg.java- Write a program to print the biggest of three numbers using logical operators ?
+sumsq.java- Write a program to find the sum of square of first 10 natural numbers ?
+fibb.java- write a program to print the Fibonacci series(1 1 2 3 5 8 13…)
+pon.java- Write a program to check whether a number is prime or not ?
+lcm.java- Write a Java program to find the LCM (Lowest Common Factor) of two numbers ?  
+digc.java- Write a Java program to count the number of digits?
+eoc.java- Write a Java program to sum the odd numbers and the even numbers from a lowerbound to an upperbound.(Initially, lowerbound=1 and upperbound=1000). 
