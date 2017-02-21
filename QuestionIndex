@@ -11,3 +11,4 @@ pon.java- Write a program to check whether a number is prime or not ?
 lcm.java- Write a Java program to find the LCM (Lowest Common Factor) of two numbers ?  
 digc.java- Write a Java program to count the number of digits?
 eoc.java- Write a Java program to sum the odd numbers and the even numbers from a lowerbound to an upperbound.(Initially, lowerbound=1 and upperbound=1000). 
+calc.java- Write a Java program to make a class having all the operators for a calculator as separate methods and call these methods in different class.
